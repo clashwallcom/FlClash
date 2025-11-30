@@ -1,6 +1,10 @@
 # FlClash 科学上网资源下载
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="FlClash" src="https://github.com/user-attachments/assets/d92d5568-8cf1-46e6-a3bc-96de1103149c" />
+</div>
+<br>
 
 ## :memo: FlClash 节点资源
 
